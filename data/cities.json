@@ -1,0 +1,77 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "cityName": "Mukono",
+      "country": "Uganda",
+      "date": "2026-05-13T21:12:45.055Z",
+      "emoji": "🇺🇬",
+      "notes": "Beautiful",
+      "position": {
+        "lat": "0.31734296613299134",
+        "lng": "32.736611837353614"
+      },
+      "id": "RUjBGAIXrG4"
+    },
+    {
+      "cityName": "Cogo",
+      "country": "Equatorial Guinea",
+      "date": "2026-05-13T21:53:37.310Z",
+      "emoji": "🇬🇶",
+      "notes": "TEST",
+      "position": {
+        "lat": "1.2671845865313889",
+        "lng": "10.019531250000002"
+      },
+      "id": "akb5WQGsu9s"
+    },
+    {
+      "cityName": "Juba",
+      "country": "South Sudan",
+      "date": "2026-05-13T22:02:57.587Z",
+      "emoji": "🇸🇸",
+      "notes": "🤔",
+      "position": {
+        "lat": "4.568351592294701",
+        "lng": "31.588431686848335"
+      },
+      "id": "4XclB4DcZog"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
