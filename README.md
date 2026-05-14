@@ -59,11 +59,6 @@ npm run build
 - This project uses CSS modules for component styles in `src/components` and `src/pages`.
 - City data is stored in `data/cities.json` — you can extend or replace it with your own dataset.
 
-If you'd like, I can also:
-
-- Add a quick demo screenshot or GIF.
-- Add CI instructions or a GitHub Pages/Vercel deployment guide.
-
 ---
 
 Created for learning and demo purposes.
