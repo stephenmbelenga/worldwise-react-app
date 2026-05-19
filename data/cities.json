@@ -71,6 +71,18 @@
         "lng": "31.588431686848335"
       },
       "id": "4XclB4DcZog"
+    },
+    {
+      "cityName": "Accra",
+      "country": "Ghana",
+      "date": "2026-05-15T20:01:31.456Z",
+      "emoji": "🇬🇭",
+      "notes": "Place to visit",
+      "position": {
+        "lat": "5.55656435222096",
+        "lng": "-0.25817871093750006"
+      },
+      "id": "bJe-47ObobQ"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
